@@ -13,7 +13,7 @@ See https://github.com/rukins/gpsoauth-java#receiving-an-authentication-token fo
 
 ```python
 from googleapiclient.discovery import build
-from gpsoauth_compat.flow import GPLogin
+from gpsoauth_compat import GPLogin
 
 SCOPES = ['https://www.googleapis.com/auth/drive.metadata.readonly']
 API_SERVICE_NAME = 'drive'
