@@ -1,4 +1,7 @@
 # GPSOauth Compatibility Layer 
+[![PyPI version](https://badge.fury.io/py/gpsoauth-compat.svg)](https://badge.fury.io/py/gpsoauth-compat)
+
+
 `gpsoauth` compatibility layer for `google-api-python-client`
 
 Use Google Play Services authentication provided by [gpsoauth](https://github.com/simon-weber/gpsoauth) with public Google APIs provided by [google-api-python-client](https://github.com/googleapis/google-api-python-client).
